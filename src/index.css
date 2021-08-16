@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.todo {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.strike {
+  font-weight: normal;
+  text-decoration: line-through;
+}
